@@ -1,4 +1,4 @@
-#mergering file together
+#mergering file together (coming files together)
 import PyPDF2
 import sys
 
@@ -12,3 +12,4 @@ def pdf_combiner(pdf_list):
     merger.write('Rohail_Butt_Resume_Cover.pdf')
 
 pdf_combiner(inputs)
+
