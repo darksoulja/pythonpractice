@@ -1,4 +1,4 @@
-
+notes on using pdf manipulation
 #mergering file together
 import PyPDF2
 import sys
